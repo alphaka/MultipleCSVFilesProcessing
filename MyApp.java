@@ -52,6 +52,7 @@ public class MyApp {
 		myPlaylist.addSong("Breaking Me");
 		
 		try {
+		// display() prints the output to Playlist.txt
 		myPlaylist.display();
 		} catch (Exception e) {
 			e.printStackTrace();

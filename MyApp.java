@@ -1,4 +1,4 @@
-// MyApp contains to main method
+// MyApp contains the main method
 
 public class MyApp {
 

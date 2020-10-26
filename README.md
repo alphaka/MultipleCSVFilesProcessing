@@ -1,7 +1,7 @@
 # MultipleCSVFilesProcessing
 
 The goal of this project is to produce an alphabetized list after processing 
-2600 data from 13 CSV files.
+2600 data from 13 CSV files from spotify.com
 
 MyApp.java is the class that contains the main method. Inside that class,
 I created an array that has the path of the thirteen files to be read from.
